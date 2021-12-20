@@ -19,3 +19,5 @@ function guess {
 	echo "$number Congrats!"
 	return
 }
+
+guess
